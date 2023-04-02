@@ -78,6 +78,7 @@ const addressList = [
 ]
 
 const fpList = [
+  "",
   "chrome",
   "chrome",
   "chrome",
@@ -91,6 +92,7 @@ const fpList = [
 ]
 
 const alpnList = [
+  "",
   "http/1.1",
   "h2,http/1.1",
   "h2,http/1.1"
