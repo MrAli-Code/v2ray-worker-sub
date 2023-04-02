@@ -87,6 +87,8 @@ const fpList = [
   "edge",
   "ios",
   "android",
+  "randomized",
+  "randomized",
   "random",
   "random"
 ]
