@@ -48,16 +48,24 @@ const myConfigs = [
 //  آی‌پی‌های نوشته شده در بخش همراه اول و سابدامین نوشته شده برای ایرانسل صرفا نمونه میباشند و بایستی پاک شده و اصلاح شوند
 //  در صورتی که از آی‌پی تمیز یا دامین تمیز در انتهای لینک ساب استفاده کنید، این بخش نادیده گرفته خواهد شد
 const cleanIPPerOperator = {
-  AST: [],
-  HWB: [],
-  IRC: [], // ['irc.my-domain.com'],
-  MBT: [],
-  MCI: [], //['162.159.135.87', '162.159.135.88'],
-  MKB: [],
-  PRS: [],
-  RTL: [],
-  SHT: [],
-  ZTL: []
+  AST: ['ast.ircf.space'],
+  HWB: ['hwb.ircf.space'],
+  IRC: ['mtn.ircf.space', 'mtnx.ircf.space'],
+  MBT: ['mbt.ircf.space'],
+  MCI: ['mci.ircf.space', 'mcix.ircf.space'],
+  MKB: ['mkh.ircf.space'],
+  PRS: ['prs.ircf.space'],
+  RTL: ['rtl.ircf.space'],
+  SHT: ['sht.ircf.space'],
+  ZTL: ['ztl.ircf.space'],
+  ASK: ['ask.ircf.space'],
+  RSP: ['rsp.ircf.space'],
+  AFN: ['afn.ircf.space'],
+  PSM: ['psm.ircf.space'],
+  ARX: ['arx.ircf.space'],
+  SMT: ['smt.ircf.space'],
+  FNV: ['fnv.ircf.space'],
+  APT: ['apt.ircf.space']
 }
 
 //  به این متغیرها و کدی که در ادامه آمده دست نزنید، مگر اینکه برنامه نویسی جاوا اسکریپت را بلد بوده و دانسته آن را تغییر دهید
