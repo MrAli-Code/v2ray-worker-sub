@@ -18,10 +18,10 @@ https://yourWorker.workers.dev/sub/prs.ircf.space \
 https://yourWorker.workers.dev/sub/mbt.ircf.space \
 و...
 
-بر اساس سرویس‌های:\
+بر اساس سرویس‌های :\
 https://ircf.space/list.php
 
-====
+========
 
 آموزش ساخت ورکر ساب برای کلاینت‌های v2ray :\
 https://www.youtube.com/watch?v=oxYoILJ9Hgk
@@ -29,6 +29,8 @@ https://www.youtube.com/watch?v=oxYoILJ9Hgk
 
 آموزش استفاده از ساب ورکر روی کلاینت ماسوری :\
 https://www.youtube.com/watch?v=Pq5FWdG31Yc
+
+========
 
 دانلود ماسوری برای اندروید :\
 https://ircf.space/software.php
