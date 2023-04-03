@@ -18,7 +18,7 @@ https://yourWorker.workers.dev/sub/prs.ircf.space\
 https://yourWorker.workers.dev/sub/mbt.ircf.space\
 و...
 
-بر اساس سرویسهای:\
+بر اساس سرویس‌های:\
 https://ircf.space/list.php
 
 ====
