@@ -5,17 +5,17 @@
 https://yourWorker.workers.dev/sub
 
 یا :\
-https://yourWorker.workers.dev/sub/mci.ircf.space\
-https://yourWorker.workers.dev/sub/mcix.ircf.space\
-https://yourWorker.workers.dev/sub/mtn.ircf.space\
-https://yourWorker.workers.dev/sub/mtnx.ircf.space\
-https://yourWorker.workers.dev/sub/rtl.ircf.space\
-https://yourWorker.workers.dev/sub/mkh.ircf.space\
-https://yourWorker.workers.dev/sub/hwb.ircf.space\
-https://yourWorker.workers.dev/sub/ast.ircf.space\
-https://yourWorker.workers.dev/sub/sht.ircf.space\
-https://yourWorker.workers.dev/sub/prs.ircf.space\
-https://yourWorker.workers.dev/sub/mbt.ircf.space\
+https://yourWorker.workers.dev/sub/mci.ircf.space \
+https://yourWorker.workers.dev/sub/mcix.ircf.space \
+https://yourWorker.workers.dev/sub/mtn.ircf.space \
+https://yourWorker.workers.dev/sub/mtnx.ircf.space \
+https://yourWorker.workers.dev/sub/rtl.ircf.space \
+https://yourWorker.workers.dev/sub/mkh.ircf.space \
+https://yourWorker.workers.dev/sub/hwb.ircf.space \
+https://yourWorker.workers.dev/sub/ast.ircf.space \
+https://yourWorker.workers.dev/sub/sht.ircf.space \
+https://yourWorker.workers.dev/sub/prs.ircf.space \
+https://yourWorker.workers.dev/sub/mbt.ircf.space \
 و...
 
 بر اساس سرویس‌های:\
