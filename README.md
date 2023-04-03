@@ -27,7 +27,7 @@ https://ircf.space/list.php
 https://www.youtube.com/watch?v=oxYoILJ9Hgk
 
 
-آموزش نحوه استفاده از ساب ورکر روی کلاینت ماسوری :
+آموزش استفاده از ساب ورکر روی کلاینت ماسوری :
 https://www.youtube.com/watch?v=Pq5FWdG31Yc
 
 دانلود ماسوری :\
