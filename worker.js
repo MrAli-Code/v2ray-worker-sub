@@ -52,7 +52,7 @@ const cleanIPPerOperator = {
   HWB: ['hwb.ircf.space'],
   IRC: ['mtn.ircf.space', 'mtnx.ircf.space'],
   MBT: ['mbt.ircf.space'],
-  MCI: ['mci.ircf.space', 'mcix.ircf.space'],
+  MCI: ['mci.ircf.space', 'mcix.ircf.space', 'mcin.ircf.space'],
   MKB: ['mkh.ircf.space', 'mkhx.ircf.space'],
   PRS: ['prs.ircf.space'],
   RTL: ['rtl.ircf.space'],
