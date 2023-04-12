@@ -50,7 +50,7 @@ const myConfigs = [
 const cleanIPPerOperator = {
   AST: ['ast.ircf.space'],
   HWB: ['hwb.ircf.space'],
-  IRC: ['mtn.ircf.space', 'mtnx.ircf.space'],
+  IRC: ['mtn.ircf.space', 'mtnx.ircf.space', 'mtnn.ircf.space'],
   MBT: ['mbt.ircf.space'],
   MCI: ['mci.ircf.space', 'mcix.ircf.space', 'mcin.ircf.space'],
   MKB: ['mkh.ircf.space', 'mkhx.ircf.space'],
