@@ -7,10 +7,13 @@ https://yourWorker.workers.dev/sub
 یا :\
 https://yourWorker.workers.dev/sub/mci.ircf.space \
 https://yourWorker.workers.dev/sub/mcix.ircf.space \
+https://yourWorker.workers.dev/sub/mcic.ircf.space \
 https://yourWorker.workers.dev/sub/mtn.ircf.space \
 https://yourWorker.workers.dev/sub/mtnx.ircf.space \
+https://yourWorker.workers.dev/sub/mtnc.ircf.space \
 https://yourWorker.workers.dev/sub/rtl.ircf.space \
 https://yourWorker.workers.dev/sub/mkh.ircf.space \
+https://yourWorker.workers.dev/sub/mkhx.ircf.space \
 https://yourWorker.workers.dev/sub/hwb.ircf.space \
 https://yourWorker.workers.dev/sub/ast.ircf.space \
 https://yourWorker.workers.dev/sub/sht.ircf.space \
