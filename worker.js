@@ -57,6 +57,7 @@ const cleanIPPerOperator = {
   PRS: ['prs.ircf.space'],
   RTL: ['rtl.ircf.space'],
   SHT: ['sht.ircf.space'],
+  SHM: ['shm.ircf.space'],
   ZTL: ['ztl.ircf.space'],
   ASK: ['ask.ircf.space'],
   RSP: ['rsp.ircf.space'],
@@ -65,7 +66,10 @@ const cleanIPPerOperator = {
   ARX: ['arx.ircf.space'],
   SMT: ['smt.ircf.space'],
   FNV: ['fnv.ircf.space'],
-  APT: ['apt.ircf.space']
+  DBN: ['dbn.ircf.space'],
+  APT: ['apt.ircf.space'],
+  FNP: ['fnp.ircf.space'],
+  RYN: ['ryn.ircf.space']
 }
 
 //  به این متغیرها و کدی که در ادامه آمده دست نزنید، مگر اینکه برنامه نویسی جاوا اسکریپت را بلد بوده و دانسته آن را تغییر دهید
