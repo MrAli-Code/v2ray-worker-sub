@@ -69,7 +69,8 @@ const cleanIPPerOperator = {
   DBN: ['dbn.ircf.space'],
   APT: ['apt.ircf.space'],
   FNP: ['fnp.ircf.space'],
-  RYN: ['ryn.ircf.space']
+  RYN: ['ryn.ircf.space'],
+  SBN: ['sbn.ircf.space']
 }
 
 //  به این متغیرها و کدی که در ادامه آمده دست نزنید، مگر اینکه برنامه نویسی جاوا اسکریپت را بلد بوده و دانسته آن را تغییر دهید
